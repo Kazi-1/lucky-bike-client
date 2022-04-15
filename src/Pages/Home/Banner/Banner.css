@@ -1,0 +1,8 @@
+.banner-bg{
+    background-image: url("https://www.lucky-bike.de/blog/Filialen/Duesseldorf1/Fahrrad-Filiale-Duesseldorf-2.jpg");
+
+    width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
